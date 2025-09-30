@@ -8,13 +8,13 @@ This is Employee REST-API automation project.Here we added Create,update,get inf
 Here we have valided the test case and genarate newman report.There have total 12 of test case negative and positive both sitituation.
 
 ## How to run this project
-- ***Clone the Project***[Employee API Project](https://github.com/omarsani97-max/Employee-REST-API.git)
-- ***HIt the command***
-***bash
+- ```Clone the Project```[Employee API Project](https://github.com/omarsani97-max/Employee-REST-API.git)
+- ```HIt the command```
+```bash
 npm i newman
-***
+```
 --This is facilate to copy line
-***bash
+```bash
 npx newman run [Collection key]
-***
+```
 
