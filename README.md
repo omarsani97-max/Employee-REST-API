@@ -13,7 +13,6 @@ Here we have valided the test case and genarate newman report.There have total 1
 ```bash
 npm i newman
 ```
---This is facilate to copy line
 ```bash
 npx newman run [Collection key]
 ```
