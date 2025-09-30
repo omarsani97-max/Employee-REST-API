@@ -17,4 +17,9 @@ npm i newman
 ```bash
 npx newman run [Collection key]
 ```
+##API Documentation[API Doc file](https://documenter.getpostman.com/view/48222698/2sB3QDvXvJ)
+##newman report
+
+<img width="742" height="901" alt="image" src="https://github.com/user-attachments/assets/28a783cd-6471-4686-a653-a919570cd9ac" />
+<img width="745" height="480" alt="image" src="https://github.com/user-attachments/assets/e66c154c-8f59-438f-ab31-b7faf9981941" />
 
