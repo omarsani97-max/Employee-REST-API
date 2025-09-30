@@ -9,3 +9,11 @@ Here we have valided the test case and genarate newman report.There have total 1
 
 ## How to run this project
 **Clone the Project**[Employee API Project]{https://github.com/omarsani97-max/Employee-REST-API.git}
+**HIt the command**
+**bash
+npm i newman
+**
+**bash
+npx newman run [Collection key]
+***
+
